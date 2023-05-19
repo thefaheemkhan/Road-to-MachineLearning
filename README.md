@@ -1,2 +1,3 @@
-# 30-Days-MachineLearning
-This is 30 days machine learning challange 
+# Educational resources
+Choose your own learning path, and explore books, courses, videos, and exercises recommended industry experts.
+### Books , Online Courses , Math Concepts , ML Frameworks , Projects
